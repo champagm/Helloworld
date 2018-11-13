@@ -1,5 +1,0 @@
-public void test()
-{
-system.out.println("test line for test");
-}
-
